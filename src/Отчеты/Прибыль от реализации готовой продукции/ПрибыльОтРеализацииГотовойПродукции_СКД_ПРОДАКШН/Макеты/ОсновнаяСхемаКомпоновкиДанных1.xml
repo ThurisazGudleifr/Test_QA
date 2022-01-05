@@ -16,9 +16,6 @@
 						<d5p1:content>Продукция</d5p1:content>
 					</d5p1:item>
 				</title>
-				<valueType>
-					<Type xmlns="http://v8.1c.ru/8.1/data/core" xmlns:d6p1="http://v8.1c.ru/8.1/data/enterprise/current-config">d6p1:CatalogRef.Номенклатура</Type>
-				</valueType>
 				<appearance/>
 			</field>
 			<field xsi:type="DataSetFieldField">
@@ -30,9 +27,6 @@
 						<d5p1:content>Характеристика продукции</d5p1:content>
 					</d5p1:item>
 				</title>
-				<valueType>
-					<Type xmlns="http://v8.1c.ru/8.1/data/core" xmlns:d6p1="http://v8.1c.ru/8.1/data/enterprise/current-config">d6p1:CatalogRef.ХарактеристикиНоменклатуры</Type>
-				</valueType>
 				<appearance/>
 			</field>
 			<field xsi:type="DataSetFieldField">
@@ -44,11 +38,6 @@
 						<d5p1:content>Заказ покупателя</d5p1:content>
 					</d5p1:item>
 				</title>
-				<valueType>
-					<Type xmlns="http://v8.1c.ru/8.1/data/core" xmlns:d6p1="http://v8.1c.ru/8.1/data/enterprise/current-config">d6p1:DocumentRef.ЗаказНаПроизводство</Type>
-					<Type xmlns="http://v8.1c.ru/8.1/data/core" xmlns:d6p1="http://v8.1c.ru/8.1/data/enterprise/current-config">d6p1:DocumentRef.ЗаказПоставщику</Type>
-					<Type xmlns="http://v8.1c.ru/8.1/data/core" xmlns:d6p1="http://v8.1c.ru/8.1/data/enterprise/current-config">d6p1:DocumentRef.ЗаказПокупателя</Type>
-				</valueType>
 				<appearance/>
 			</field>
 			<field xsi:type="DataSetFieldField">
@@ -393,9 +382,6 @@
 						<d5p1:content>Номенклатурная группа</d5p1:content>
 					</d5p1:item>
 				</title>
-				<valueType>
-					<Type xmlns="http://v8.1c.ru/8.1/data/core" xmlns:d6p1="http://v8.1c.ru/8.1/data/enterprise/current-config">d6p1:CatalogRef.НоменклатурныеГруппы</Type>
-				</valueType>
 				<appearance/>
 			</field>
 			<field xsi:type="DataSetFieldField">
