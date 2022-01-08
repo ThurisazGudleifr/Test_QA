@@ -1,0 +1,26 @@
+﻿#language: ru
+
+@tree
+@ExportScenarios
+@IgnoreOnCIMainBuild
+
+Функционал: Загружает элемент справочника Товары
+
+Контекст:
+Дано Я запускаю сценарий открытия TestClient или подключаю уже существующий
+
+@ТипШага: Загрузка данных
+@Описание: Загружает или перезаполняет элемент справочника Товары
+@ПримерИспользования: И загрузить Товары
+
+Сценарий: Загрузить Товары
+
+// Справочник.Товары
+
+	И я проверяю или создаю для справочника "Товары" объекты:
+		| 'Ссылка'                                                            | 'ПометкаУдаления' | 'Родитель'                                                          | 'ЭтоГруппа' | 'Код'       | 'Наименование' | 'Артикул' | 'Поставщик' | 'ФайлКартинки' | 'Вид'                    | 'Штрихкод' | 'Описание'                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | 'ВТ_Вес' |
+		| 'e1cib/data/Справочник.Товары?ref=8ca2000d8843cd1b11dc9111f169782e' | 'False'           | 'e1cib/data/Справочник.Товары?ref=a100005056c0000811e3f7c0ef680671' | 'False'     | '000000035' | 'Йогурт'       | 'S564'    | ''          | ''             | 'Enum.ВидыТоваров.Товар' | ''         | '<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head><meta name="viewport" content="initial-scale=1.0, width=device-width"></meta><meta http-equiv="Content-Type" content="text/html; charset=utf-8"></meta><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"></meta><meta name="format-detection" content="telephone=no"></meta><style type="text/css">\nbody{margin:0px;padding:8px;overflow:auto;width:100%;height:100%;}\np{line-height:1.15;margin:0px;}\nol,ul{margin-top:0px;margin-bottom:0px;}\nimg{border: none;}\n</style></head><body>\n<p>Йогурт натуральный Био.</p>\n<p><br></p>\n<p><span style=" font-weight: bold;">Объем </span>-125 г.</p>\n<p><span style=" font-weight: bold;">Жирность</span><span style=" font-weight: bold;"> - </span>3.5 %.</p>\n<p><span style=" font-weight: bold;">Упаковка -</span><span style=" font-weight: bold;"> </span>пластик. стакан.</p>\n</body></html>' | 5        |
+		| 'e1cib/data/Справочник.Товары?ref=a100005056c0000811e3f7c0ef680671' | 'False'           | 'e1cib/data/Справочник.Товары?ref=a9b200055d49b45e11db967987f1c226' | 'True'      | '000000099' | 'Молочные'     | ''        | ''          | ''             | ''                       | ''         | ''                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | ''       |
+		| 'e1cib/data/Справочник.Товары?ref=a9b200055d49b45e11db967987f1c226' | 'False'           | ''                                                                  | 'True'      | '000000011' | 'Продукты'     | ''        | ''          | ''             | ''                       | ''         | ''                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | ''       |
+
+	
