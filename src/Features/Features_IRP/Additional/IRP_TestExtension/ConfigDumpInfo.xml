@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.12">
+	<ConfigVersions>
+		<Metadata name="Catalog.Currencies" id="584956f3-cbcc-45f7-a9f8-4ff3be1aca12" configVersion="cabb28f9933b66584b491ceda5e7a842886cf4e3">
+			<Metadata name="Catalog.Currencies.Attribute.REP_Attribute1" id="3fa1d6c6-c489-4cc6-a573-5ea154be6b08"/>
+		</Metadata>
+		<Metadata name="Catalog.IntegrationSettings" id="e06edf23-c5fa-4507-84aa-6a51022a1e0f" configVersion="341fff3e9ed42a2091f65a7efb9e6b8dc58d88ef"/>
+		<Metadata name="Catalog.ItemKeys" id="62316d58-e37f-49df-b8ce-27123c7a5862" configVersion="393f7acf4c88963266e456870c98559e8b348779"/>
+		<Metadata name="Catalog.ItemKeys.Form.ItemForm" id="3fc2847e-aa4b-4477-acfb-df076db489fd" configVersion="0cfd7d189ad2e3134a008b87b19a9b7da61a8ee1"/>
+		<Metadata name="Catalog.ItemKeys.Form.ItemForm.Form" id="3fc2847e-aa4b-4477-acfb-df076db489fd.0" configVersion="4569a78b403facdefefa2a546a090fc1b07f27b6"/>
+		<Metadata name="Catalog.ItemKeys.Form.ListForm" id="b2ef4412-d1a7-4402-9416-7b87531d9b62" configVersion="5087d28f14e9259ca8e73af9096658324790fbfd"/>
+		<Metadata name="Catalog.ItemKeys.Form.ListForm.Form" id="b2ef4412-d1a7-4402-9416-7b87531d9b62.0" configVersion="d74b778cacdf645b988c8ad252fe5c4bd40a20d4"/>
+		<Metadata name="Catalog.Items" id="db0a36f4-da16-4830-b562-88c41864e587" configVersion="ffb46197296b7534615ac4932da84dd97117adbc"/>
+		<Metadata name="Catalog.Items.Form.ChoiceForm" id="934a1947-df34-4c43-af75-0cc71edee274" configVersion="5ac5d90736009a8e5563283eff09b9c1d12a9537"/>
+		<Metadata name="Catalog.Items.Form.ChoiceForm.Form" id="934a1947-df34-4c43-af75-0cc71edee274.0" configVersion="72d5e742cae33c3c184102190b614db4bddf9903"/>
+		<Metadata name="Catalog.Items.Form.ItemForm" id="ad5f8d87-4851-4e38-bcf9-14ec004c5a5f" configVersion="d137275f3206d0db2a64d47d4860ee8f0a3593f1"/>
+		<Metadata name="Catalog.Items.Form.ItemForm.Form" id="ad5f8d87-4851-4e38-bcf9-14ec004c5a5f.0" configVersion="643ab65dffdb3e58318f9b6402ac75d63f657921"/>
+		<Metadata name="Catalog.Items.Form.ListForm" id="03803b32-1601-4bae-b82e-28ad71b3a9b3" configVersion="906d2a93e6a8074598d983878e42a332fac47aa0"/>
+		<Metadata name="Catalog.Items.Form.ListForm.Form" id="03803b32-1601-4bae-b82e-28ad71b3a9b3.0" configVersion="24b303a0ad9e09d012e21f9b3a9fdb0dad6f87a9"/>
+		<Metadata name="ChartOfCharacteristicTypes.AddAttributeAndProperty" id="c896265c-fa65-4669-8ae6-abb671a398d9" configVersion="ebdb5d883ba17bb2ad43c1ccc20090d450648356"/>
+		<Metadata name="ChartOfCharacteristicTypes.CurrencyMovementType" id="10d738d3-2d56-40a4-93e4-f2b0496421d0" configVersion="7520a2d49198431a2d7320901c0ec0c37a220b97">
+			<Metadata name="ChartOfCharacteristicTypes.CurrencyMovementType.Attribute.DeferredCalculation" id="10234ece-e0e7-42a2-bb49-47d16a9f4d2a"/>
+			<Metadata name="ChartOfCharacteristicTypes.CurrencyMovementType.Attribute.Source" id="125a412a-3b5f-4c8e-8887-69f1b5d32a19"/>
+			<Metadata name="ChartOfCharacteristicTypes.CurrencyMovementType.Attribute.Currency" id="4695ec89-0581-41ad-ab80-2dbd6913f7c0"/>
+			<Metadata name="ChartOfCharacteristicTypes.CurrencyMovementType.Attribute.Type" id="e2bd6ab9-2236-4a0c-b8a3-0351897a6ad5"/>
+		</Metadata>
+		<Metadata name="ChartOfCharacteristicTypes.CurrencyMovementType.Predefined" id="10d738d3-2d56-40a4-93e4-f2b0496421d0.7" configVersion="c97b54cf1ad7be72729000bf04f38b75e07028ff"/>
+		<Metadata name="CommonPicture.IconCollection2" id="17c7a9b7-cd64-44e1-bcff-dd2599e26097" configVersion="7456ae799ff65adc3d82358737625d453ccff1d8"/>
+		<Metadata name="Configuration.IRP_TestExtension" id="542f43b4-4f40-4483-a1b7-6a2daf83ba6f" configVersion="a2c8afa8424175eda5341760b1b3f53b86f9bda8"/>
+		<Metadata name="Configuration.IRP_TestExtension.CommandInterface" id="9b6dfec5-2a3f-4347-a0e5-48247da47698.a" configVersion="fdaec039eea90396e8275a4185f01ff2ce9f09af"/>
+		<Metadata name="Configuration.IRP_TestExtension.MainSectionCommandInterface" id="9b6dfec5-2a3f-4347-a0e5-48247da47698.9" configVersion="fdaec039eea90396e8275a4185f01ff2ce9f09af"/>
+		<Metadata name="Constant.SaasMode" id="df2e6703-fc00-48a1-839e-362b4b9204cb" configVersion="ff6d18906a85205ee8ccf6dad2d14a24c5bd6890"/>
+		<Metadata name="DefinedType.typeAccountStatementBasises" id="68c703ae-deca-4668-8f85-828142bd8b96" configVersion="bd70c0173af1d40ad014e125e5fa73a17aa3e21a"/>
+		<Metadata name="DefinedType.typeAmount" id="3d98c790-dc15-47e8-89a4-8c26287eccb2" configVersion="ce680a49b3ba4d6c41c596a9b26a54a35b1720ee"/>
+		<Metadata name="DefinedType.typeApTransactionBasises" id="2570e0d5-d395-467e-b214-5699ef0710a7" configVersion="08c035f36c6c729e73dbd3c81fd4f4a4ffdebf78"/>
+		<Metadata name="DefinedType.typeArTransactionBasises" id="50295efe-a80f-4f0d-a93b-766ccf3e2a81" configVersion="f27bc2c5f1a6da0a98918e40ffaa51206d7f23e0"/>
+		<Metadata name="DefinedType.typePlaningTransactionBasises" id="71738688-00a9-4b8d-88ba-357adcd27c46" configVersion="1061d49d4703b3935d8e0f07f7f648757a2156bf"/>
+		<Metadata name="DefinedType.typeQuantity" id="68a59af5-b84e-4dd8-9327-2e676ca72263" configVersion="febf3cbacc09652b757862797a12247c57e33761"/>
+		<Metadata name="Enum.CurrencyType" id="53dc4335-5e9d-41bc-b3a5-b4c4250f5942" configVersion="2bed94b42cfbde69e56edf5b85396a0977b2d30e">
+			<Metadata name="Enum.CurrencyType.EnumValue.Legal" id="e3e8f2d4-b5b0-4795-b77b-5292fad26d57"/>
+		</Metadata>
+		<Metadata name="Enum.REP_ReportParametrTypes" id="443953ab-5b8f-474d-9463-47fed1318759" configVersion="851817526690128f974c560679530f4f2f3d516f">
+			<Metadata name="Enum.REP_ReportParametrTypes.EnumValue.CurrencyMovementTypeForReportSalesByCustomer" id="65e8bb21-7b6b-4cc4-bd76-eb22aad44cdf"/>
+			<Metadata name="Enum.REP_ReportParametrTypes.EnumValue.CurrencyMovementTypeForReportPurchasesByVendor" id="fea77612-2418-47e2-94dd-4933e8fea7ff"/>
+		</Metadata>
+		<Metadata name="InformationRegister.REP_ReportParameters" id="5ccc1632-8127-44d2-9807-ae8dcc0deea5" configVersion="74d3a70499c5175ac4b09db32a0ad01e1c02a105">
+			<Metadata name="InformationRegister.REP_ReportParameters.Resource.Value" id="06957508-191b-4204-8046-5e0f9bf3df12"/>
+			<Metadata name="InformationRegister.REP_ReportParameters.Dimension.ParametrType" id="490ab1cb-c965-496d-9e62-8ea727929fac"/>
+		</Metadata>
+		<Metadata name="Language.English" id="9f5880c5-9c28-4307-b5e0-a1449f1f4749" configVersion="3d65e76c96b3e929f8488b6a454e962b52743ae3"/>
+		<Metadata name="Report.REP_Barcodes" id="538fb132-2c75-4e9a-90cb-d6881ec71ceb" configVersion="4b795f9aa7350a195cc5889dd0b6f6f8fb822815"/>
+		<Metadata name="Report.REP_Barcodes.Template.MainDataCompositionSchema" id="1312bd2e-39f0-438f-88ec-484bdcdb4d7e" configVersion="3ccc37b5f866bd7defa6204e27780d6b0f3e41b9"/>
+		<Metadata name="Report.REP_Barcodes.Template.MainDataCompositionSchema.Template" id="1312bd2e-39f0-438f-88ec-484bdcdb4d7e.0" configVersion="67d4ef87542a03cf56ff702897732ccab7bc4e56"/>
+		<Metadata name="Role.FullAccess" id="9c0c7e40-2cc4-4ab7-9f51-16c8d318e971" configVersion="8a322cc103c711af723529f82e6a7ea26293b217"/>
+		<Metadata name="Role.FullAccess.Rights" id="9c0c7e40-2cc4-4ab7-9f51-16c8d318e971.0" configVersion="234cecbde3a4e6449dd067c6b49d045ed59fd768"/>
+		<Metadata name="Subsystem.Reports" id="50c79be3-eb23-4ee4-a2bb-b3e3f0faa2c7" configVersion="6256f8a9fc07ec2e966c50f311bfb1498274075a"/>
+	</ConfigVersions>
+</ConfigDumpInfo>

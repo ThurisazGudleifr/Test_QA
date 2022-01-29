@@ -1,0 +1,17 @@
+﻿{1,
+{45f3e1f8-1c15-4ffd-a628-f270333a0835},1,
+{c3831ec8-d8d5-4f93-8a22-f9bfae07327f,
+{1,
+{4,503de865-4645-4496-b5dd-2e4a76236095,4d213f80-34d7-4f82-80f0-c17b4f80d887,
+{0,
+{3,
+{1,0,29d2f52d-0ed1-4254-a6bc-bbc6bc333ab1},"Проверка_добавления_картинок_к_номенклатуре",
+{21,"ru","Проверка_добавления_картинок_к_номенклатуре","en","DataProcessor","am","ጥሪ","az","Emal zəng etmək","bg","Обработка на повикване","et","Töötlemine kõne","fr","Le traitement de l'appel","ka","დარეკეთ","de","Die Verarbeitung des Anrufs","hu","A hívás","it","Trattamento di chiamata","lv","Apstrāde zvanu","lt","Apdorojimo skambinti","mn","Дуудлага","pl","Obsługa połączeń","ro","Prelucrarea de apel","sl","Klic","es","El tratamiento de la llamada","sv","Samtalet","tr","İşleme arama","vi","Bộ xử lý gọi ra"},"",0,0,00000000-0000-0000-0000-000000000000,0}
+},71dafe59-1db3-4376-a6c2-ca7d5c7f9383,"",00000000-0000-0000-0000-000000000000},4,
+{2bcef0d1-0981-11d6-b9b8-0050bae0a95d,0},
+{3daea016-69b7-4ed4-9453-127911372fe6,0},
+{d5b0e5ed-256d-401c-9c36-f630cafd8a62,1,71dafe59-1db3-4376-a6c2-ca7d5c7f9383},
+{ec6bb5e5-b7a8-4d75-bec9-658107a699cf,0}
+}
+}
+}
